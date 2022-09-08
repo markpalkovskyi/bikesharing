@@ -17,6 +17,8 @@ This breakdown of number of rides by duration, separated by gender, makes it eve
 ![](https://user-images.githubusercontent.com/101672943/189011822-4e208e4a-7625-4334-b8c8-90c71cf9c615.png)
 More than 3/4 of the users are Subscribers, who make regular use of the bikes and are a predictable source of income for the program. Bikeshare program users are also predominantly male, at approximately 5/8 to only about 1/4 female. The remaining 1/8 gender is unknown or undeclared.
 
+![](https://user-images.githubusercontent.com/101672943/189012053-49c80335-b80c-49f5-90c4-7e39186c7431.png)
+
 ## Summary:
 In conclusion, bikeshare services are remarkably popular in busy metropolitan areas, where occupied real estate is densely packed and parking spaces may be scarce. The user base is made up mostly of male subscribers, providing regular income to the program. More outreach should be done to attract female riders, but male users seem a reliable market. And main usage seems focused around morning and evening commute times.
 
